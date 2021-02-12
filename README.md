@@ -40,5 +40,13 @@ washington.csv - Dataset containing all bikeshare information for the city of Wa
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+<<<<<<< HEAD
 
 https://classroom.udacity.com/nanodegrees/nd104-mena-connect/parts/435cb8e0-77d0-4b60-9940-bc537b9463f6/modules/f00315b4-d56e-4171-a4d1-af3c2fafc813/lessons/ee7d089a-4a92-4e5d-96d2-bb256fae28e9/concepts/87034580-6b86-4f45-9981-88f5c86d21bf
+||||||| 3c48792
+
+=======
+ 
+ 
+ ===================================================================================================================
+>>>>>>> 19d7a66650a13a6a20b50a7c7d714cc6d2316947
